@@ -1,5 +1,5 @@
 {
-  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Great Inventions of the 19th Century (exhibitions/AWE/, exhibition 4), each file as legacy serves it, byte for byte: the pages' icons and strips, and the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image). tests/assets.test.js checks every file against its hash.",
+  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Great Inventions of the 19th Century (exhibitions/AWE/, exhibition 4), each file as legacy serves it, byte for byte: the pages' icons and strips, the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image) and the partners' logos on the home page (logos/). tests/assets.test.js checks every file against its hash.",
   "files": {
     "theme/assets/legacy/arrow_black_down.gif": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black_down.gif",
@@ -44,6 +44,18 @@
     "theme/assets/legacy/intro_bg.jpg": {
       "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/4/intro_bg.jpg",
       "sha256": "0139fd687cc00e74fa4dcfe0ebe969eefe7808c02a8ccf30a77853f2a7971bd3"
+    },
+    "theme/assets/legacy/logos/item_logo_14.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/4/item_logo_14.png",
+      "sha256": "c5bdeaafc5252c3c9285724b830c5178e8ff5186f1aa5396bdaae82073d4b547"
+    },
+    "theme/assets/legacy/logos/item_logo_24.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/4/item_logo_24.png",
+      "sha256": "7df54ba19884b9cfee97cc225ee6712be8090aef76bc18b2737181ae4c7dafa9"
+    },
+    "theme/assets/legacy/logos/item_logo_34.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/4/item_logo_34.png",
+      "sha256": "562dd277c1d5d47cc2531dbce6a4dd22c2159fddafe289b437e576a34e7b0f0f"
     },
     "theme/assets/legacy/magnify.png": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/magnify.png",
